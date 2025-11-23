@@ -81,7 +81,7 @@ An **event-driven ETL pipeline** that automatically processes daily airline flig
 
 ## 📊 Step Function Workflow
 
-![Step Function Workflow] <img width="569" height="470" alt="image" src="https://github.com/user-attachments/assets/555b8187-f050-4e4c-b0f9-1c628978cc5c" />
+<img width="567" height="647" alt="image" src="https://github.com/user-attachments/assets/f272a64b-38c5-4e7e-9d94-e705abf5307e" />
 
 *Automated orchestration with crawler polling, job execution, and SNS notifications*
 
@@ -89,7 +89,7 @@ An **event-driven ETL pipeline** that automatically processes daily airline flig
 
 ## 🔧 Glue ETL Job Architecture
 
-![Glue ETL Job] <img width="567" height="647" alt="image" src="https://github.com/user-attachments/assets/ae5bbf98-d014-4efa-a2ac-7b32e6563b27" />
+<img width="567" height="647" alt="image" src="https://github.com/user-attachments/assets/ae5bbf98-d014-4efa-a2ac-7b32e6563b27" />
 
 *PySpark transformation flow: Filter → Join → Enrich → Load to Redshift*
 
