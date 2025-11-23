@@ -81,7 +81,7 @@ An **event-driven ETL pipeline** that automatically processes daily airline flig
 
 ## 📊 Step Function Workflow
 
-<img width="567" height="647" alt="image" src="https://github.com/user-attachments/assets/f272a64b-38c5-4e7e-9d94-e705abf5307e" />
+<img width="569" height="470" alt="image" src="https://github.com/user-attachments/assets/22bbee8f-e725-412f-b9b2-1a2c5bd24cbf" />
 
 *Automated orchestration with crawler polling, job execution, and SNS notifications*
 
